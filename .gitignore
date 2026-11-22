@@ -1,0 +1,9 @@
+datasets/
+runs/
+detect/
+preds/
+source/
+tools/
+*.jpg
+*.pt
+!best.pt
