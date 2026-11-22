@@ -1,7 +1,5 @@
-# YOLOv5 训练数据配置
-# 如果把这个 yolo-homework 文件夹整个搬到别处（比如 D:\yolov5\），
-# 只需要改下面 path 这一行即可。
-
+# 复现时把 path 改成你本机 datasets 目录的绝对路径
+# reproduce: change path to your local datasets folder
 path: C:/Users/bai15/Documents/deepseek-harness/default-workspace/yolo-homework/datasets
 train: images/train
 val: images/val
